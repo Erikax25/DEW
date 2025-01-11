@@ -43,7 +43,7 @@ console.log(fahrenheitACelsiusForEach([68, 50, 46.4, 39, 90]));
 console.log(fahrenheitACelsiusForEach([20, 0, -10]));
 console.log(fahrenheitACelsiusForEach([]));
 
-console.log(fahrenheitACelsiusForEach2([68, 50, 46.4, 39, 90]));
+console.log(fahrenheitACelsiusForEach2([68, 50, 46.4, 39, 91]));
 console.log(fahrenheitACelsiusForEach2([20, 0, -10]));
 console.log(fahrenheitACelsiusForEach2([]));
 
